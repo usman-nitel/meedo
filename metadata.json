@@ -1,0 +1,7 @@
+{
+  "name": "MEDO Marketplace",
+  "description": "A high-performance multi-vendor marketplace MVP with integrated ad promotion systems, seller dashboards, and customer checkout flows.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
